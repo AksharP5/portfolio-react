@@ -1,7 +1,7 @@
 import './index.scss'
 import { Link, NavLink } from "react-router-dom"
-import LogoAK from "../../../assets/images/logo.png"
-import LogoSubtitle from "../../../assets/images/logo_sub.png"
+import LogoAK from "../../assets/images/logo.png"
+import LogoSubtitle from "../../assets/images/logo_sub.png"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
@@ -35,12 +35,12 @@ const Sidebar = () => (
         </nav>
         <ul>
             <li>
-                <a targe="_blank" rel="noreferrer" href="https://www.linkedin.com/in/akshar5">
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/akshar5">
                     <FontAwesomeIcon icon={faLinkedin} color="4d4d4e"></FontAwesomeIcon>
                 </a>
             </li>
             <li>
-                <a targe="_blank" rel="noreferrer" href="https://www.github.com/AksharP5">
+                <a target="_blank" rel="noreferrer" href="https://www.github.com/AksharP5">
                     <FontAwesomeIcon icon={faGithub} color="4d4d4e"></FontAwesomeIcon>
                 </a>
             </li>
