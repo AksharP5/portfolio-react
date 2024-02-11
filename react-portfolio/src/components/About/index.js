@@ -44,9 +44,10 @@ const About = () => {
                         challenging tasks.
                     </p>
                     <p>
-                        One sentence to define myself: With an optimistic and positive
-                         outlook, I take pleasure in both sports and reading, 
-                         remaining grateful for every experience.
+                        Young man looking to work towards my goals through any opportunities
+                        with an optimistic and positive outlook on life. Enjoy reading,
+                        writing, music, and sports, and love learning more about each of
+                        these.
                     </p>
                 </div>
 
